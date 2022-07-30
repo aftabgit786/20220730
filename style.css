@@ -1,0 +1,31 @@
+.body{
+    background-image: url("zakat.jpg");
+    background-repeat: no-repeat;
+    background-position: auto;
+    background-size: cover;
+}
+.div{
+    text-align: center;
+    font-size: 30px;
+}
+.input{
+    font-size: 40px;
+    color:rgb(255, 217, 0);
+    background-color: white;
+    border-radius: 10px;
+    border-color: white;
+}
+.button{
+    font-size: 30px;
+    color: black;
+    background-color: white;
+    border-radius: 10px;
+    border-color: white;
+}
+.button:hover{
+    font-size: 30px;
+    color: black;
+    background-color: rgb(233, 175, 109);
+    border-radius: 10px;
+    border-color: white;
+}
